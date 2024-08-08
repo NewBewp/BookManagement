@@ -19,5 +19,4 @@ public class UserEntity extends BaseEntity{
 
     @Column(nullable = false)
     private Integer role;
-
 }
